@@ -25,7 +25,7 @@ SECRET_KEY = 'cr$%l!*di7v7n8j681z3guw_^q5p&tl+2s&=@b7yhf27rs_zaq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['armoport.herokuapp.com', 'localhost']
 
 
 # Application definition

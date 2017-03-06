@@ -1,1 +1,1 @@
- web: gunicorn armordregol.wsgi --log-file -
+ web: gunicorn armoport.wsgi --log-file -
